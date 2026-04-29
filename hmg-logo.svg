@@ -1,12 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" role="img" aria-labelledby="title desc">
-  <title id="title">淮南传媒集团 HMG</title>
-  <desc id="desc">Blue Huainan Media Group logo inspired by the provided HMG reference.</desc>
-  <rect width="640" height="360" rx="0" fill="#214d9b"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1746 1240" role="img" aria-labelledby="title desc">
+  <title id="title">淮南传媒 HMG</title>
+  <desc id="desc">HMG logo with the original stacked layout: HMG mark, Chinese name, and English name.</desc>
+  <rect width="1746" height="1240" fill="#214b99"/>
   <g fill="#fff">
-    <text x="84" y="158" font-family="Arial Black, Impact, Arial, sans-serif" font-size="128" font-weight="900" letter-spacing="-8">HMG</text>
-    <path d="M78 150c42 20 76 8 116-18 33-21 66-27 101-13 20 8 38 22 53 43-22-22-48-34-77-35-31-1-58 10-88 31-39 27-76 34-105 20Z"/>
-    <path d="M452 92c-40 2-74 26-87 65-18 53 14 109 70 122 35 8 72-1 99-23v-64h-76v-34h120v113c-39 38-93 52-145 38-77-20-120-98-95-172 18-54 65-87 124-88 46-1 86 16 117 48l-34 36c-23-27-53-42-93-41Z"/>
-    <text x="91" y="260" font-family="'Microsoft YaHei', SimHei, Arial, sans-serif" font-size="48" font-weight="700" letter-spacing="18">淮南传媒集团</text>
-    <text x="101" y="306" font-family="Arial, sans-serif" font-size="24" font-weight="700" letter-spacing="18">HUAINAN MEDIA GROUP</text>
+    <text x="248" y="682" font-family="Arial Black, Impact, Arial, sans-serif" font-size="510" font-weight="900" letter-spacing="-28">HMG</text>
+    <path d="M258 524c62 35 137 43 219 2 47-23 89-50 132-68 71-30 149-36 232 13 41 24 74 58 101 100-56-57-121-83-191-76-66 7-117 42-177 79-82 51-186 74-316 10Z"/>
+    <path d="M1163 391c-95 8-173 69-203 160-45 135 42 271 184 297 101 19 193-16 256-81V648h-165v-71h240v219c-91 86-214 121-342 89-183-46-291-229-231-407 47-140 171-223 322-226 101-2 197 33 275 102l-62 74c-69-63-143-91-274-37Z"/>
+    <text x="278" y="862" font-family="'Microsoft YaHei', 'Noto Sans CJK SC', SimHei, Arial, sans-serif" font-size="128" font-weight="600" letter-spacing="80">淮南传媒集团</text>
+    <text x="287" y="938" font-family="Arial, sans-serif" font-size="54" font-weight="800" letter-spacing="44">HUAINAN  MEDIA  GROUP</text>
   </g>
 </svg>
