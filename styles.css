@@ -69,21 +69,21 @@ button {
 
 .brand-mark {
   display: grid;
-  width: 46px;
+  overflow: hidden;
+  width: 72px;
   height: 46px;
   place-items: center;
-  border: 1px solid rgba(98, 241, 200, 0.36);
-  border-radius: 13px;
-  background: linear-gradient(145deg, rgba(84, 167, 255, 0.22), rgba(98, 241, 200, 0.08));
-  box-shadow: 0 0 30px rgba(84, 167, 255, 0.16);
+  border: 1px solid rgba(255, 255, 255, 0.16);
+  border-radius: 8px;
+  background: #214d9b;
+  box-shadow: 0 0 30px rgba(33, 77, 155, 0.34);
 }
 
-.brand-mark svg {
-  width: 27px;
-  height: 27px;
-  fill: none;
-  stroke: var(--mint);
-  stroke-width: 1.8;
+.brand-mark img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
 }
 
 .brand-lockup strong,
@@ -345,13 +345,13 @@ h3 {
 
 .avatar {
   display: grid;
-  width: 30px;
+  width: 36px;
   height: 30px;
   place-items: center;
-  border-radius: 50%;
-  background: linear-gradient(135deg, var(--blue), var(--mint));
-  color: #061015;
-  font-size: 11px;
+  border-radius: 7px;
+  background: #214d9b;
+  color: #ffffff;
+  font-size: 10px;
   font-weight: 800;
 }
 
@@ -966,6 +966,11 @@ h3 {
     padding: 22px 14px;
   }
 
+  .brand-mark {
+    width: 58px;
+    height: 40px;
+  }
+
   .brand-lockup div:last-child,
   .mode-button span:last-child,
   .quota-panel {
@@ -1006,6 +1011,11 @@ h3 {
 
   .brand-lockup {
     margin-bottom: 12px;
+  }
+
+  .brand-mark {
+    width: 72px;
+    height: 46px;
   }
 
   .brand-lockup div:last-child {
